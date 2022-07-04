@@ -12,5 +12,6 @@ Running:
 `cargo run nobody poem.txt`
 
 Should have the following result:
-![example](./example_img/poem_example.png)
+
+![example](./examples_img/poem_example.png)
 
